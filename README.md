@@ -1,17 +1,7 @@
  ### Hi there, I'm Marko Zecevic👋👋👋
 - 🔭 I’m currently working on my Ruby on Rails skills
 - 📫 How to reach me: marczecevic@gmail.com
-- ⚡ Fun fact: I was a professional football player ⚽
-
-### Connect with me:
-
-
-[<img align="left" alt="Sabesan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](https://facebook.com/marko.zecevic.102)
-[<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zecevicmarko/)
-
-
-<br/><br/>
-
+- ⚡ Fun fact: I was a professional football player ⚽ [Wikipedia](https://en.wikipedia.org/wiki/Marko_Ze%C4%8Devi%C4%87)
 
  ### 🛠 Tech Stack  
 <p align="left">
@@ -30,6 +20,13 @@
 <a href="https://github.com/MarkoNS1990">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MarkoNS1990&layout=compact&theme=radical" />
 </a>
+
+
+### Connect with me:
+
+
+[<img align="left" alt="Sabesan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](https://facebook.com/marko.zecevic.102)
+[<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zecevicmarko/)
 <!--
 **MarkoNS1990/MarkoNS1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
