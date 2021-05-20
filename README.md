@@ -15,8 +15,7 @@
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="max-width:100%;" width="40" height="40"> </a>
 </p>
 
-<a href="https://github.com/MarkoNS1990">
-<img align="center" alt="marko's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MarkoNS1990&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+
 <a href="https://github.com/MarkoNS1990">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MarkoNS1990&layout=compact&theme=radical" />
 </a>
