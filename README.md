@@ -1,5 +1,5 @@
  ### Hi there, I'm Marko Zecevic👋👋👋
-- 🔭 I’m currently working on my Ruby on Rails skills
+- 🔭 I’m currently working on my JavaScript skills
 - 📫 How to reach me: marczecevic@gmail.com
 - ⚡ Fun fact: I was a professional football player ⚽ [Wikipedia](https://en.wikipedia.org/wiki/Marko_Ze%C4%8Devi%C4%87)
 
